@@ -1,20 +1,18 @@
 class script(object):   
-    HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """Hᴇʏ {}\nHᴇʀᴇ ɪs Mʏ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs."""
 
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : <a href=https://t.me/Tamilan_bots_official>𝑻𝑨𝑴𝑰𝒁𝑯𝑨𝑵</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : 𝙰𝙽𝚈𝚆𝙷𝙴𝚁𝙴
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚅𝙴𝚁𝚂𝙸𝙾𝙽: 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙾𝚁-𝙱𝙾𝚃 𝚟3.0.0"""
+    ABOUT_TXT = """✯ Mʏ Nᴀᴍᴇ : {}
+✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Praxxsh>A ᴅ ᴏ ʟ ғ 🔰 R ᴀ ᴍ</a>
+✯ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
+✯ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 𝟹
+✯ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ-ᴅʙ
+✯ Bᴏᴛ Sᴇʀᴠᴇʀ : Aɴʏᴡʜᴇʀᴇ
+✯ Pᴀʀᴇɴᴛ Bᴏᴛ : <a href=https://t.me/OBITO_FILTER_BOT>Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</a>"""
 
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://github.com/MrMKN/PROFESSOR-BOT>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑-𝐁𝐎𝐓</a>
-
-<b>DEVS:</b>
-- 𝙳𝚎𝚟 1<a href=https://t.me/Tamilan_bots_official>𝑻𝑨𝑴𝑰𝒁𝑯𝑨𝑵</a>
-- 𝙳𝚎𝚟 2<a href=https://t.me/Tamilan_bots_official>𝑻𝑨𝑴𝑰𝒁𝑯𝑨𝑵</a>"""
+    SOURCE_TXT = """<b>I'ᴍ Cʟᴏɴᴇᴅ ʙʏ Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</b>
+- Pᴀʀᴇɴᴛ Bᴏᴛ👉 :<a href=https://t.me/OBITO_FILTER_BOT>Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</a>
+<b>Dᴇᴠᴇʟᴏᴘᴇʀ:</b>
+- Aᴅᴍɪɴ<a href=https://t.me/Praxxsh>A ᴅ ᴏ ʟ ғ 🔰 R ᴀ ᴍ</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -28,9 +26,9 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/Tamilan_bots_official https://t.me/Tamilan_bots_official</code>
+<code>/batch https://t.me/Body_Soda_Updates https://t.me/Body_Soda_Updates</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Tamilan_bots_official><b>BILLA BOTZ</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/Body_Soda_Updates><b>Body soda Updates</b></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -147,11 +145,11 @@ these are the extra features of this bot
 • /delallg - <code>ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ ɢʟᴏʙᴀʟ ꜰɪʟᴛᴇʀꜱ</code>
 """
 
-    STATUS_TXT = """<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code></b>
-<b>᚛› 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code></b>
-<b>᚛› 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>
-<b>᚛› 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝙱</b>"""
+    STATUS_TXT = """<b>📑 Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code></b>
+<b>👤 Tᴏᴛᴀʟ Usᴇʀ: <code>{}</code></b>
+<b>👥 Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code></b>
+<b>🗂️ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝙱</b>
+<b>🗄️ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝙱</b>"""
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {a}(<code>{b}</code>)</b>
@@ -330,11 +328,11 @@ Delete A Lot Of Messages From Groups!
 𝘠𝘰𝘶 𝘊𝘢𝘯 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘈𝘯𝘺 𝘝𝘪𝘥𝘦𝘰 𝘖𝘳 𝘈𝘶𝘥𝘪𝘰 𝘍𝘳𝘰𝘮 𝘠𝘰𝘶𝘵𝘶𝘣𝘦
 
 𝙃𝙤𝙬 𝙏𝙤 𝙐𝙨𝙚
-• /song 𝚂𝙾𝙽𝙶 𝙽𝙰𝙼𝙴 
+• /song ᴘʜᴏɴᴇ ʟᴀ ᴘᴇsᴀᴛʜᴀ ᴅᴀ ᴘᴏᴛᴀ 
 • /video or /mp4 𝘈𝘯𝘥 https://youtu.be/*****
 
 • 𝘌𝘹𝘢𝘮𝘱𝘭𝘦:
-<code>/song mkn</code>
+<code>/song ᴘʜᴏɴᴇ ʟᴀ ᴘᴇsᴀᴛʜᴀ ᴅᴀ ᴘᴏᴛᴀ</code>
 <code>/mp4 https://youtu.be/*******</code>
 <code>/video https://youtu.be/*****</code>  """
 
