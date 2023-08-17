@@ -2,17 +2,15 @@ class script(object):
     HELP_TXT = """Hᴇʏ {}\nHᴇʀᴇ ɪs Mʏ Hᴇʟᴘ Cᴏᴍᴍᴀɴᴅs."""
 
     ABOUT_TXT = """✯ Mʏ Nᴀᴍᴇ : {}
-✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Praxxsh>A ᴅ ᴏ ʟ ғ 🔰 R ᴀ ᴍ</a>
+✯ Cʀᴇᴀᴛᴏʀ : <a href=tg://settings>𝙰𝚍𝚖𝚒𝚗</a>
 ✯ Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ
 ✯ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 𝟹
 ✯ Dᴀᴛᴀ Bᴀsᴇ : Mᴏɴɢᴏ-ᴅʙ
 ✯ Bᴏᴛ Sᴇʀᴠᴇʀ : Aɴʏᴡʜᴇʀᴇ
-✯ Pᴀʀᴇɴᴛ Bᴏᴛ : <a href=https://t.me/OBITO_FILTER_BOT>Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</a>"""
+✯ Bᴜɪʟᴅ Vᴇʀsɪᴏɴ : Bɪʟʟᴀ Fɪʟᴛᴇʀ-Bᴏᴛ 𝚟6.0.0"""
 
     SOURCE_TXT = """<b>I'ᴍ Cʟᴏɴᴇᴅ ʙʏ Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</b>
-- Pᴀʀᴇɴᴛ Bᴏᴛ👉 :<a href=https://t.me/OBITO_FILTER_BOT>Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</a>
-<b>Dᴇᴠᴇʟᴏᴘᴇʀ:</b>
-- Aᴅᴍɪɴ<a href=https://t.me/Praxxsh>A ᴅ ᴏ ʟ ғ 🔰 R ᴀ ᴍ</a>"""
+- Pᴀʀᴇɴᴛ Bᴏᴛ👉 :<a href=https://t.me/OBITO_FILTER_BOT>Oʙɪᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
